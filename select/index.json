@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "消えないで",
+  "base_artist": "手がクリームパン",
+  "createdAt": "2026-04-02T04:41:25.938173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消えないで…",
+      "artist": "yozuca*",
+      "has_synced": true,
+      "path": "select/01_消えないで..._yozuca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "消えないで… (アニメ『D.C.II S.S.』11話挿入歌)",
+      "artist": "yozuca*",
+      "has_synced": true,
+      "path": "select/02_消えないで..._(アニメ『D.C.II_S.S.』11話挿入歌)_yozuca.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "消えないで...",
+      "artist": "yozuca",
+      "has_synced": true,
+      "path": "select/03_消えないで..._yozuca.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えないで (feat. 上野大樹)",
+      "artist": "手がクリームパン",
+      "has_synced": false,
+      "path": "select/pl_01_消えないで_(feat._上野大樹)_手がクリームパン.txt"
+    }
+  ]
+}
